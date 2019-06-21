@@ -1,2 +1,3 @@
 # Tensorflow-Machine-learning <br>
-1 Tensorflow: mnist
+1 Tensorflow: mnist, DNN model
+
